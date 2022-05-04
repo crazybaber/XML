@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <skills>
+    <skill_1>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</skill_1>
+    <skill_2>What is a client-server architecture</skill_2>
+    <skill_3>HTTP Methods of requests to the server</skill_3>
+    <skill_4>HTTP server response codes</skill_4>
+    <skill_5>Structures of HTTP requests and responses</skill_5>
+    <skill_6>What is JSON, XML. Their structure</skill_6>
+    <skill_7>API testing using Postman (JS, API autotests)</skill_7>
+    <skill_8>Removing and reading logs from an external server</skill_8>
+    <skill_9>Sniffing http web traffic using Charles and Fiddler</skill_9>
+    <skill_10>Dev Tools of web browsers (Google Chrome, FireFox)</skill_10>
+    <skill_11>VPN. (How it works, why you need it, how to use it, tool options</skill_11>
+    <skill_12>Mobile testing</skill_12>
+    <skill_13>Feature iOS, Android, guidelines</skill_13>
+    <skill_14>Building iOS applications on XCode</skill_14>
+    <skill_15>Building Android applications on Android Studio</skill_15>
+    <skill_16>ADB (android device management)</skill_16>
+    <skill_17>Setting up proxy and vpn on iOS and Android</skill_17>
+    <skill_18>Interception (sniffing) of mobile traffic using Charles and Fiddler on iOS and Android</skill_18>
+    <skill_19>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</skill_19>
+    <skill_20>Basics of bash scripting, automation of routine tasks on the server</skill_20>
+    <skill_21>Access to remote servers</skill_21>
+    <skill_22>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</skill_22>
+    <skill_23>Postgres database (installation, configuration and use)</skill_23>
+    <skill_24>Non-relational database Redis (installation, configuration and use)</skill_24>
+    <skill_25>Load testing in Jmeter</skill_25>
+    <skill_26>Scrum development methodology</skill_26>
+    <skill_26>Python. (Learning the basics. Creating a client-server application)</skill_26>
+</skills>
+
+
