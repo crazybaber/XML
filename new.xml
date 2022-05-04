@@ -1,6 +1,7 @@
-<xml>
-
-    <name>"Ruslan_Fursa"</name>
-    <age>"35_years"</age>
-    <pets>"one_cat_Crab"</pets>
-    <expected_salary>"800"</expected_salary>
+<?xml version="1.0" encoding="utf-8"?>
+  <about_myself>
+    <name>Ruslan_Fursa</name>
+    <age>35_years</age>
+    <pets>one_cat_Crab</pets>
+    <expected_salary>800</expected_salary>
+  </about_myself>
