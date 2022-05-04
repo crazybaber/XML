@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <bug_report>
+    <item_1>ID</item_1>
+    <item_2>Title</item_2>
+    <item_3>Severity/Priority</item_3>
+    <item_4>Environment</item_4>
+    <item_5>Description</item_5>
+    <item_6>Steps to reproduce</item_6>
+    <item_7>Expected result</item_7>
+    <item_8>Actual result</item_8>
+    <item_9>Attachments (screenshots, videos, text, logs)</item_9>
+    <item_10>Comments</item_10>
+  </bug_report>
